@@ -3,6 +3,10 @@ multiprocess-control
 
 Java API for running multiple processes in parallel in a controlled way
 
+###Documentation
+
+The API documentation is available [here](http://www.codingworks.net/doc/multiprocess-control/index.html).
+
 ###Usages
 
 * Return immediately if any of the processes fails  
